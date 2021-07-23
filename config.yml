@@ -1,0 +1,28 @@
+
+
+# How long it will take after a player hit another player to exit combat mode
+# In seconds
+combat-timeout: 20
+
+
+# Bar colors: PINK, BLUE, RED, GREEN, YELLOW, PURPLE, WHITE
+
+# The team name is the name used in the scoreboard
+# Note that the teams are dynamic (meaning you can add more teams / remove teams)
+teams:
+   red:
+      name: "Red"
+      bossbar: "&c%player%"
+      color: RED
+   green:
+      name: "Green"
+      bossbar: "&a%player%"
+      color: GREEN
+   blue:
+      name: "Blue"
+      bossbar: "&9%player%"
+      color: BLUE
+   yellow:
+      name: "Yellow"
+      bossbar: "&e%player%"
+      color: YELLOW
